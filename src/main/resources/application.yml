@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    password: ashokit
+    password: chandan
     url: jdbc:h2:mem:testdb
-    username: ashokit
+    username: chandan
   jpa:
     hibernate:
       ddl-auto: update
